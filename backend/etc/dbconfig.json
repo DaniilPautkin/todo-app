@@ -1,0 +1,4 @@
+{
+    "serverPort": "5000",
+    "db": "mongodb+srv://test:123@cluster0-u2vwi.azure.mongodb.net/test?retryWrites=true&w=majority"
+}

@@ -1,0 +1,11 @@
+.navbarCont {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 10px;
+}
+
+.navbarItem {
+    /* margin-left: 10px; */
+    margin-right: 10px;
+}
